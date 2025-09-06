@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "name": "Z-drive",
+      "path": "Z:\\"
+    },
+    {
+      "name": "Devcontainer",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true
+    }
+  }
+}
