@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "name": "Z-drive",
+      "path": "Z:\\"
+    },
+    {
+      "name": "HomeAssistant Core",
+      "path": "C:\\Users\\Marnix\\Workspaces\\core"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true
+    }
+  }
+}
