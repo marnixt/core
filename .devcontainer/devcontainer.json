@@ -21,6 +21,9 @@
     "--security-opt",
     "label=disable"
   ],
+  "mounts": [
+    "source=/mnt/remote_config,target=/workspace-remote-config,type=bind,consistency=cached"
+  ],
   "customizations": {
     "vscode": {
       "extensions": [
